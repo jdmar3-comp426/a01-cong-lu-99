@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a01-cong-lu-99/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a01-cong-lu-99#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a01-cong-lu-99#readme",
+  "devDependencies": {
+    "html-validate": "^6.1.0"
+  }
 }
