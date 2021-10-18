@@ -33,7 +33,7 @@ a {
     text-transform: uppercase;
 }
 
-div > p {
+div p {
     font-family:'Times New Roman', Times, serif;
 }
 
