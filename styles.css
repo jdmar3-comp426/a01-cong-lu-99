@@ -33,7 +33,7 @@ a {
     text-transform: uppercase;
 }
 
-p {
+div > p {
     font-family:'Times New Roman', Times, serif;
 }
 
@@ -48,6 +48,5 @@ h1 {
 #who_are_the_cherokee_people {
     height: 100px;
     width: 100%;
-    background-color: #f3ebea;
 }
 
