@@ -1,0 +1,52 @@
+* {
+    background-color: #f3ebeb;
+}
+
+body {
+    color: #062e03;
+}
+.nav:hover {
+    background: white;
+    border: 1px solid lightsalmon;
+    color: lightsalmon;
+}
+
+.nav {
+    background: lightsalmon;
+    border: 1px solid lightsalmon;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    margin: 5px;
+    padding: 7px;
+    width: 150px;
+    font-style: normal;
+}
+
+a {
+    height: 15px;
+    font-style: italic;
+    margin: 10px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+div p {
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace !important;
+}
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#who_are_the_cherokee_people {
+    height: 100px;
+    width: 100%;
+}
+
